@@ -32,7 +32,7 @@ Interface: Console (Text-Based Menus)
 
 Clone this repository
 
-git clone https://github.com/your-username/medical-store-management.git
+git clone https://github.com/Anish1424/medical-store-management.git
 cd medical-store-management
 
 
