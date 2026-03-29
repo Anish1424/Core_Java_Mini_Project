@@ -15,6 +15,7 @@ public class Client {
         Scanner scanner = new Scanner(System.in);
         MedicineOperations operations = new Operationimpl();
 
+        System.out.println("Medi Plus")
         while (true) {
             System.out.println("\nChoose an operation:");
             System.out.println("1. View Medicines");
