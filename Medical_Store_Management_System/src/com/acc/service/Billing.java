@@ -8,7 +8,7 @@ import com.acc.model.Medical;
 public class Billing {
     private Cart cart = new Cart();
     Scanner scanner = new Scanner(System.in);
-    //int i = 0;
+    //int i;
     
     public void cartMenu( MedicineOperations operations) {
         while (true) {
