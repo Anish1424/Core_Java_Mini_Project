@@ -9,6 +9,7 @@ public class Billing {
     private Cart cart = new Cart();
     Scanner scanner = new Scanner(System.in);
     //int i = 0;
+    //int a = 12;
     
     public void cartMenu( MedicineOperations operations) {
         while (true) {
