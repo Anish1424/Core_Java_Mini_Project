@@ -8,6 +8,7 @@ public class Medical {
 	private int Quantity;
 	private String manufacture_date;
 	private String expiry_date;
+	//ok
 	
 	public Medical(int medicine_id, String medicine_name, String medicine_manufacturer, double price,
 			int Quantity, String manufacture_date, String expiry_date) {
